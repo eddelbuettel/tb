@@ -4012,11 +4012,11 @@ a.thumbnail:hover {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
 }
 .navbar .nav .active > a {
-  background-color: transparent;
+  background-color: #dddddd;
   color: #333333;
 }
 .navbar .nav .active > a:hover {
-  background-color: transparent;
+  background-color: #dddddd;
   color: #4183c4;
 }
 .navbar .nav > li > a:hover,
