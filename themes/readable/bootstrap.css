@@ -4111,7 +4111,7 @@ div.subnav .nav > li:active > a:hover {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
-  background-color: transparent;
+  background-color: #f6f6e8;
 }
 div.subnav-fixed {
   position: static;
