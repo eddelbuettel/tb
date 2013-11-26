@@ -4391,10 +4391,6 @@ pre {
   font-size: 100%;
   font-weight: bold;
   padding-top: 20px;
-  background: #d0d0d0;
-  border: solid 1px #BBB;
-  padding: 4px;
-  text-align: center;
 }
 .pull-right {
   float: right;

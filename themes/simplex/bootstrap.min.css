@@ -743,7 +743,7 @@ blockquote{border-left:0px solid #eeeeee;}blockquote.pull-right{border-right:6px
 blockquote p{font-size:1em;line-height:1.2em;}
 code,pre{-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;color:#043755;}
 .timestamp{font-size:8pt;}
-.dateheader{font-size:100%;font-weight:bold;padding-top:20px;background:#d0d0d0;border:solid 1px #BBB;padding:4px;text-align:center;}
+.dateheader{font-size:100%;font-weight:bold;padding-top:20px;}
 .pull-right{float:right;}
 .pull-left{float:left;}
 .hide{display:none;}
