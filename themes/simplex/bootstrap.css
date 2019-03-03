@@ -527,7 +527,7 @@ cite {
 code,
 pre {
   padding: 0 3px 2px;
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: Monospace, Menlo, Monaco, "Courier New", monospace;
   font-size: 14px;
   color: #333333;
   -webkit-border-radius: 3px;
